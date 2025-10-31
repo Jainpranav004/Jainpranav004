@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Blockchain , Deep Learning and Microservices**
 
-- 💬 Ask me about **React , Node , Python , Java , Machine Learning**
+- 💬 Ask me about **React , Node , Python , Java , Machine Learning , Deep Learning , Gen-AI**
 
 - 📫 How to reach me **Jainapranav02@gmail.com , Jainapranav02@ieee.org**
 

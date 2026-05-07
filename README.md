@@ -118,11 +118,6 @@
 
 <br><br>
 
-### 📊 LeetCode Stats
-
-<img src="https://leetcard.jacoblin.cool/jainpranav004?theme=dark&font=Nunito&ext=heatmap" />
-
-<br><br>
 
 ### 🔥 GitHub Contribution Graph
 

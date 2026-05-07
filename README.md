@@ -1,133 +1,41 @@
 <h1 align="center">Hi 👋, I'm Pranav Jain</h1>
+<h3 align="center">🚀 BTech CSE ‘27 | CTO @ EdTech Startup | ML & DSA Enthusiast 💻 Tech Explorer | Problem Solver 🌱 Learning • Building • Growing </h3>
 
-<h3 align="center">
-🚀 BTech CSE '27 | CTO @ EdTech Startup <br>
-💻 ML • GenAI • Full Stack • DSA Enthusiast
-</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jainpranav004&label=Profile%20views&color=0e75b6&style=flat" alt="jainpranav004" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainpranav004" alt="jainpranav004" /></a> </p>
 
-## 🌟 About Me
+- 🌱 I’m currently learning **Blockchain , Deep Learning and Microservices**
 
-- 🌱 Currently learning **Blockchain, Deep Learning & Microservices**
-- 💬 Ask me about **React, Node.js, Python, Java, ML, GenAI**
-- 📫 Reach me at:
-  - **Jainapranav02@gmail.com**
-  - **Jainapranav02@ieee.org**
-- ⚡ Fun fact:
-  - *I treat DSA like game levels 🎮*
-  - *I debug better with music 🎧*
+- 💬 Ask me about **React , Node , Python , Java , Machine Learning , Deep Learning , Gen-AI**
 
----
+- 📫 How to reach me **Jainapranav02@gmail.com , Jainapranav02@ieee.org**
 
-## 🌐 Connect With Me
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jeAJXT0aTgB9m_Wdojp6UVXg3RRim8Co/view?usp=drive_link](https://drive.google.com/file/d/1jeAJXT0aTgB9m_Wdojp6UVXg3RRim8Co/view?usp=drive_link)
 
+- ⚡ Fun fact **I treat solving DSA problems like unlocking game levels, and I debug better with music on. When I’m not coding, you’ll find me dancing, traveling, or capturing moments through photography — because creativity fuels both my projects and my adventures.**
 
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
-  <h3>Portfolio</h3>
-  <a href="https://portfolio-ten-cyan-2sessvbfwi.vercel.app/">
-       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/pranav-jain-pj">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  
-  <a href="https://instagram.com/_pranavjain4">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-
-  <a href="https://www.youtube.com/c/jainpranav004">
-    <img src="https://skillicons.dev/icons?i=youtube" />
-  </a>
+<a href="https://portfolio-ten-cyan-2sessvbfwi.vercel.app/">
+     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/pranav-jain-pj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-jain-pj" height="30" width="40" /></a>
+<a href="https://kaggle.com/pranavjain0201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pranavjain0201" height="30" width="40" /></a>
+<a href="https://instagram.com/_pranavjain4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pranavjain4" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/jainpranav004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jainpranav004" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jainpranav004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jainpranav004" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/jainpranav004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jainpranav004" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jainpranav004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jainpranav004" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jainpranav004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jainpranav004" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/jainpranav004">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
-  </a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-  <a href="https://codeforces.com/profile/jainpranav004">
-    <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces" />
-  </a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainpranav004&show_icons=true&locale=en&layout=compact" alt="jainpranav004" /></p>
 
-  <a href="https://auth.geeksforgeeks.org/user/jainpranav004">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
-  </a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainpranav004&show_icons=true&locale=en" alt="jainpranav004" /></p>
 
----
-
-# 💻 Tech Stack
-
-## 🚀 Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
-</p>
-
----
-
-## 🌐 Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
----
-
-## 🧠 AI / ML
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
----
-
-## 🛠️ Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,postman,photoshop" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jainpranav004&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainpranav004&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainpranav004&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 🚀 Quote
-
-> *"Consistency beats motivation."*
-
----
-
-<p align="center">
-  ⭐ From <a href="https://github.com/jainpranav004">Pranav Jain</a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainpranav004&" alt="jainpranav004" /></p>

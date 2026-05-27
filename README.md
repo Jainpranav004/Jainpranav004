@@ -95,7 +95,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,photoshop,vscode,figma" />
   <img src="https://cdn.simpleicons.org/n8n" width="50" />
-   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,n8n" />
+ 
 </p>
 
 ---

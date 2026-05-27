@@ -2,7 +2,7 @@
 
 <h3 align="center">
 🚀 BTech CSE '27 | CTO @ EdTech Startup <br>
-💻 ML • GenAI • Full Stack • DSA Enthusiast
+💻 AI-ML • Automation • GenAI • Agentic AI • Full Stack • DSA Enthusiast
 </h3>
 
 <p align="center">
@@ -15,13 +15,13 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 Currently learning **Blockchain, Deep Learning & Microservices**
-- 💬 Ask me about **React, Node.js, Python, Java, ML, GenAI**
+- 🌱 Currently learning **Agentic AI , AI Automation Workflows & Microservices**
+- 💬 Ask me about **React, Node.js, Python, Java, N8N,  ML, GenAI**
 - 🎯 Focused on becoming a strong **Software Engineer + AI Engineer**
 - 🧠 Solving DSA daily and improving problem-solving skills
 - 📫 Reach me at:
   - **Jainapranav02@gmail.com**
-  - **Jainapranav02@ieee.org**
+  - **pranavgu02@gmail.com**
 
 <br><br>
 
@@ -80,7 +80,7 @@
 ## 🧠 AI / ML
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,n8n" />
 </p>
 
 <p align="center">
@@ -93,7 +93,7 @@
 ## 🛠️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,photoshop,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,photoshop,vscode,figma,n8n" />
 </p>
 
 ---

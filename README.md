@@ -31,7 +31,7 @@
 
 <p align="center">
 
-<a href="https://portfolio-pranav-jain.vercel.app/">
+<a href="https://pranav-jain-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 
